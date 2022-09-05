@@ -1,0 +1,12 @@
+{
+    "name": "QR-Code",
+    "version": "1.0.0",
+    "description": "Generate QR-Code",
+    "manifest_version": 3,
+    "author": "Vinit Hingu",
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Generate QR-Code"
+    }
+    
+}
